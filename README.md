@@ -22,9 +22,8 @@
 
 ## Screenshots
 
-![Screenshot](path/to/screenshot1.jpg)
-![Screenshot](path/to/screenshot2.jpg)
-![Screenshot](path/to/screenshot3.jpg)
+![Screenshot](https://github.com/Toppersayali/Dictionary-App/commit/0fe68ce8fb4900691258c22657ba1e835039cc49)
+
 
 ## Video
 
