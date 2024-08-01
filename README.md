@@ -22,7 +22,7 @@
 
 ## Video
 
-[Click Here](https://github.com/Toppersayali/Dictionary-App/commit/)
+[Click Here](https://github.com/Toppersayali/Dictionary-App/commit/VID-20240801-WA0004.mp4)
 
 ## Getting Started
 
