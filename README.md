@@ -17,12 +17,12 @@
 > To provide users wth a esy-t-se iterface to find meanings, synonyms, and antonyms of words, enhancing their vocabulary.
 ## Screenshot 
 
-![Screenshot](https://github.com/Toppersayali/Dictionary-App/IMG-20240801-WA0003.jpg)
+![Screenshot](https://github.com/Toppersayali/Dictionary-App/commit/IMG-20240801-WA0003.jpg)
 
 
 ## Video
 
-[Click Here](link/to/video)
+[Click Here](https://github.com/Toppersayali/Dictionary-App/commit/)
 
 ## Getting Started
 
