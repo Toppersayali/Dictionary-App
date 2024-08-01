@@ -19,7 +19,7 @@
 
 ## Screenshot
 
-![Screenshot](https://github.com/Toppersayali/Dictionary-App/raw/dictionary/IMG-20240801-WA0003.jpg)
+![Screenshot](https://github.com/Toppersayali/Dictionary-App/blob/main/IMG-20240801-WA0003.jpg)
 
 ## Video
 
