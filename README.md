@@ -11,18 +11,19 @@
 
 ## Frontend
 - HTML: Used for structuring the web pages.
-- CSS: Styled the app to be visually appealing and user-
-- JavaScript: Provided interactive functionality for searching and diplaying word information.
+- CSS: Styled the app to be visually appealing and user-friendly.
+- JavaScript: Provided interactive functionality for searching and displaying word information.
+
 ## Application
-> To provide users wth a esy-t-se iterface to find meanings, synonyms, and antonyms of words, enhancing their vocabulary.
-## Screenshot 
+> To provide users with an easy-to-use interface to find meanings, synonyms, and antonyms of words, enhancing their vocabulary.
 
-![Screenshot](https://github.com/Toppersayali/Dictionary-App/dictonary/IMG-20240801-WA0003.jpg)
+## Screenshot
 
+![Screenshot](https://github.com/Toppersayali/Dictionary-App/raw/dictionary/IMG-20240801-WA0003.jpg)
 
 ## Video
 
-[Click Here](https://github.com/Toppersayali/Dictionary-App/dictonary/VID-20240801-WA0004.mp4)
+[Click Here](https://github.com/Toppersayali/Dictionary-App/raw/dictionary/VID-20240801-WA0004.mp4)
 
 ## Getting Started
 
@@ -37,4 +38,3 @@
     ```
 
 3. Open `index.html` in your web browser to view the app.
-
