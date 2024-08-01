@@ -19,11 +19,11 @@
 
 ## Screenshot
 
-![Screenshot](https://github.com/Toppersayali/Dictionary-App/blob/main/IMG-20240801-WA0003.jpg)
+![Screenshot](https://github.com/Toppersayali/Dictionary-App/blob/dictonary/IMG-20240801-WA0003.jpg)
 
 ## Video
 
-[Click Here](https://github.com/Toppersayali/Dictionary-App/raw/dictionary/VID-20240801-WA0004.mp4)
+[click here](https://github.com/Toppersayali/Dictionary-App/blob/dictonary/VID-20240801-WA0004.mp4)
 
 ## Getting Started
 
